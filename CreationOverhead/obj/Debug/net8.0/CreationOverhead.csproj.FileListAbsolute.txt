@@ -1,0 +1,15 @@
+/home/hassan-sajjad/PDC-LAB/CreationOverhead/bin/Debug/net8.0/CreationOverhead
+/home/hassan-sajjad/PDC-LAB/CreationOverhead/bin/Debug/net8.0/CreationOverhead.deps.json
+/home/hassan-sajjad/PDC-LAB/CreationOverhead/bin/Debug/net8.0/CreationOverhead.runtimeconfig.json
+/home/hassan-sajjad/PDC-LAB/CreationOverhead/bin/Debug/net8.0/CreationOverhead.dll
+/home/hassan-sajjad/PDC-LAB/CreationOverhead/bin/Debug/net8.0/CreationOverhead.pdb
+/home/hassan-sajjad/PDC-LAB/CreationOverhead/obj/Debug/net8.0/CreationOverhead.GeneratedMSBuildEditorConfig.editorconfig
+/home/hassan-sajjad/PDC-LAB/CreationOverhead/obj/Debug/net8.0/CreationOverhead.AssemblyInfoInputs.cache
+/home/hassan-sajjad/PDC-LAB/CreationOverhead/obj/Debug/net8.0/CreationOverhead.AssemblyInfo.cs
+/home/hassan-sajjad/PDC-LAB/CreationOverhead/obj/Debug/net8.0/CreationOverhead.csproj.CoreCompileInputs.cache
+/home/hassan-sajjad/PDC-LAB/CreationOverhead/obj/Debug/net8.0/CreationOverhead.sourcelink.json
+/home/hassan-sajjad/PDC-LAB/CreationOverhead/obj/Debug/net8.0/CreationOverhead.dll
+/home/hassan-sajjad/PDC-LAB/CreationOverhead/obj/Debug/net8.0/refint/CreationOverhead.dll
+/home/hassan-sajjad/PDC-LAB/CreationOverhead/obj/Debug/net8.0/CreationOverhead.pdb
+/home/hassan-sajjad/PDC-LAB/CreationOverhead/obj/Debug/net8.0/CreationOverhead.genruntimeconfig.cache
+/home/hassan-sajjad/PDC-LAB/CreationOverhead/obj/Debug/net8.0/ref/CreationOverhead.dll

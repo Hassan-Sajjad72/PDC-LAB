@@ -1,0 +1,15 @@
+/home/hassan-sajjad/PDC-LAB/ThreadLifecycle/bin/Debug/net8.0/ThreadLifecycle
+/home/hassan-sajjad/PDC-LAB/ThreadLifecycle/bin/Debug/net8.0/ThreadLifecycle.deps.json
+/home/hassan-sajjad/PDC-LAB/ThreadLifecycle/bin/Debug/net8.0/ThreadLifecycle.runtimeconfig.json
+/home/hassan-sajjad/PDC-LAB/ThreadLifecycle/bin/Debug/net8.0/ThreadLifecycle.dll
+/home/hassan-sajjad/PDC-LAB/ThreadLifecycle/bin/Debug/net8.0/ThreadLifecycle.pdb
+/home/hassan-sajjad/PDC-LAB/ThreadLifecycle/obj/Debug/net8.0/ThreadLifecycle.GeneratedMSBuildEditorConfig.editorconfig
+/home/hassan-sajjad/PDC-LAB/ThreadLifecycle/obj/Debug/net8.0/ThreadLifecycle.AssemblyInfoInputs.cache
+/home/hassan-sajjad/PDC-LAB/ThreadLifecycle/obj/Debug/net8.0/ThreadLifecycle.AssemblyInfo.cs
+/home/hassan-sajjad/PDC-LAB/ThreadLifecycle/obj/Debug/net8.0/ThreadLifecycle.csproj.CoreCompileInputs.cache
+/home/hassan-sajjad/PDC-LAB/ThreadLifecycle/obj/Debug/net8.0/ThreadLifecycle.sourcelink.json
+/home/hassan-sajjad/PDC-LAB/ThreadLifecycle/obj/Debug/net8.0/ThreadLifecycle.dll
+/home/hassan-sajjad/PDC-LAB/ThreadLifecycle/obj/Debug/net8.0/refint/ThreadLifecycle.dll
+/home/hassan-sajjad/PDC-LAB/ThreadLifecycle/obj/Debug/net8.0/ThreadLifecycle.pdb
+/home/hassan-sajjad/PDC-LAB/ThreadLifecycle/obj/Debug/net8.0/ThreadLifecycle.genruntimeconfig.cache
+/home/hassan-sajjad/PDC-LAB/ThreadLifecycle/obj/Debug/net8.0/ref/ThreadLifecycle.dll

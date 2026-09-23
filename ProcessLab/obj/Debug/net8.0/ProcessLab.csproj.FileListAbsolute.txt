@@ -1,0 +1,15 @@
+/home/hassan-sajjad/PDC-LAB/ProcessLab/bin/Debug/net8.0/ProcessLab
+/home/hassan-sajjad/PDC-LAB/ProcessLab/bin/Debug/net8.0/ProcessLab.deps.json
+/home/hassan-sajjad/PDC-LAB/ProcessLab/bin/Debug/net8.0/ProcessLab.runtimeconfig.json
+/home/hassan-sajjad/PDC-LAB/ProcessLab/bin/Debug/net8.0/ProcessLab.dll
+/home/hassan-sajjad/PDC-LAB/ProcessLab/bin/Debug/net8.0/ProcessLab.pdb
+/home/hassan-sajjad/PDC-LAB/ProcessLab/obj/Debug/net8.0/ProcessLab.GeneratedMSBuildEditorConfig.editorconfig
+/home/hassan-sajjad/PDC-LAB/ProcessLab/obj/Debug/net8.0/ProcessLab.AssemblyInfoInputs.cache
+/home/hassan-sajjad/PDC-LAB/ProcessLab/obj/Debug/net8.0/ProcessLab.AssemblyInfo.cs
+/home/hassan-sajjad/PDC-LAB/ProcessLab/obj/Debug/net8.0/ProcessLab.csproj.CoreCompileInputs.cache
+/home/hassan-sajjad/PDC-LAB/ProcessLab/obj/Debug/net8.0/ProcessLab.sourcelink.json
+/home/hassan-sajjad/PDC-LAB/ProcessLab/obj/Debug/net8.0/ProcessLab.dll
+/home/hassan-sajjad/PDC-LAB/ProcessLab/obj/Debug/net8.0/refint/ProcessLab.dll
+/home/hassan-sajjad/PDC-LAB/ProcessLab/obj/Debug/net8.0/ProcessLab.pdb
+/home/hassan-sajjad/PDC-LAB/ProcessLab/obj/Debug/net8.0/ProcessLab.genruntimeconfig.cache
+/home/hassan-sajjad/PDC-LAB/ProcessLab/obj/Debug/net8.0/ref/ProcessLab.dll
