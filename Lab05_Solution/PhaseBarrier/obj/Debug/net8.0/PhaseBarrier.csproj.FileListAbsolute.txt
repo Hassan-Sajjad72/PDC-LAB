@@ -1,0 +1,15 @@
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/PhaseBarrier/bin/Debug/net8.0/PhaseBarrier
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/PhaseBarrier/bin/Debug/net8.0/PhaseBarrier.deps.json
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/PhaseBarrier/bin/Debug/net8.0/PhaseBarrier.runtimeconfig.json
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/PhaseBarrier/bin/Debug/net8.0/PhaseBarrier.dll
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/PhaseBarrier/bin/Debug/net8.0/PhaseBarrier.pdb
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/PhaseBarrier/obj/Debug/net8.0/PhaseBarrier.GeneratedMSBuildEditorConfig.editorconfig
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/PhaseBarrier/obj/Debug/net8.0/PhaseBarrier.AssemblyInfoInputs.cache
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/PhaseBarrier/obj/Debug/net8.0/PhaseBarrier.AssemblyInfo.cs
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/PhaseBarrier/obj/Debug/net8.0/PhaseBarrier.csproj.CoreCompileInputs.cache
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/PhaseBarrier/obj/Debug/net8.0/PhaseBarrier.sourcelink.json
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/PhaseBarrier/obj/Debug/net8.0/PhaseBarrier.dll
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/PhaseBarrier/obj/Debug/net8.0/refint/PhaseBarrier.dll
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/PhaseBarrier/obj/Debug/net8.0/PhaseBarrier.pdb
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/PhaseBarrier/obj/Debug/net8.0/PhaseBarrier.genruntimeconfig.cache
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/PhaseBarrier/obj/Debug/net8.0/ref/PhaseBarrier.dll

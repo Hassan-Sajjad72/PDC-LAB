@@ -1,0 +1,15 @@
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/BufferMutex/bin/Debug/net8.0/BufferMutex
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/BufferMutex/bin/Debug/net8.0/BufferMutex.deps.json
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/BufferMutex/bin/Debug/net8.0/BufferMutex.runtimeconfig.json
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/BufferMutex/bin/Debug/net8.0/BufferMutex.dll
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/BufferMutex/bin/Debug/net8.0/BufferMutex.pdb
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/BufferMutex/obj/Debug/net8.0/BufferMutex.GeneratedMSBuildEditorConfig.editorconfig
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/BufferMutex/obj/Debug/net8.0/BufferMutex.AssemblyInfoInputs.cache
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/BufferMutex/obj/Debug/net8.0/BufferMutex.AssemblyInfo.cs
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/BufferMutex/obj/Debug/net8.0/BufferMutex.csproj.CoreCompileInputs.cache
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/BufferMutex/obj/Debug/net8.0/BufferMutex.sourcelink.json
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/BufferMutex/obj/Debug/net8.0/BufferMutex.dll
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/BufferMutex/obj/Debug/net8.0/refint/BufferMutex.dll
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/BufferMutex/obj/Debug/net8.0/BufferMutex.pdb
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/BufferMutex/obj/Debug/net8.0/BufferMutex.genruntimeconfig.cache
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/BufferMutex/obj/Debug/net8.0/ref/BufferMutex.dll

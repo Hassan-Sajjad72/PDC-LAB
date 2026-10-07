@@ -1,0 +1,15 @@
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/LockFreeStack/obj/Debug/net8.0/LockFreeStack.GeneratedMSBuildEditorConfig.editorconfig
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/LockFreeStack/obj/Debug/net8.0/LockFreeStack.AssemblyInfoInputs.cache
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/LockFreeStack/obj/Debug/net8.0/LockFreeStack.AssemblyInfo.cs
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/LockFreeStack/obj/Debug/net8.0/LockFreeStack.csproj.CoreCompileInputs.cache
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/LockFreeStack/obj/Debug/net8.0/LockFreeStack.sourcelink.json
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/LockFreeStack/bin/Debug/net8.0/LockFreeStack
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/LockFreeStack/bin/Debug/net8.0/LockFreeStack.deps.json
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/LockFreeStack/bin/Debug/net8.0/LockFreeStack.runtimeconfig.json
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/LockFreeStack/bin/Debug/net8.0/LockFreeStack.dll
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/LockFreeStack/bin/Debug/net8.0/LockFreeStack.pdb
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/LockFreeStack/obj/Debug/net8.0/LockFreeStack.dll
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/LockFreeStack/obj/Debug/net8.0/refint/LockFreeStack.dll
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/LockFreeStack/obj/Debug/net8.0/LockFreeStack.pdb
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/LockFreeStack/obj/Debug/net8.0/LockFreeStack.genruntimeconfig.cache
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/LockFreeStack/obj/Debug/net8.0/ref/LockFreeStack.dll

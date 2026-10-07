@@ -1,0 +1,14 @@
+CS426L Lab 05 Submission Checklist
+
+[ ] Task 1: 5 runs recorded
+[ ] Task 1: buffer sizes 1, 8, 64 recorded
+[ ] Task 2: all 6 configurations, 3 runs each recorded
+[ ] Task 2: deadlock experiment observed
+[ ] Task 3: A, B, C, D recorded
+[ ] Task 3: lost-signal experiment observed
+[ ] Task 4: 5 barrier runs recorded
+[ ] Task 4: 5 no-barrier runs recorded
+[ ] Task 4: 8-worker run recorded
+[ ] Discussion questions answered
+[ ] Screenshots added
+[ ] Optional Task 5: 5 runs and 8-worker run recorded

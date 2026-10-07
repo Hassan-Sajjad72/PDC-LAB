@@ -1,0 +1,15 @@
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/CondSignal/bin/Debug/net8.0/CondSignal
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/CondSignal/bin/Debug/net8.0/CondSignal.deps.json
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/CondSignal/bin/Debug/net8.0/CondSignal.runtimeconfig.json
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/CondSignal/bin/Debug/net8.0/CondSignal.dll
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/CondSignal/bin/Debug/net8.0/CondSignal.pdb
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/CondSignal/obj/Debug/net8.0/CondSignal.GeneratedMSBuildEditorConfig.editorconfig
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/CondSignal/obj/Debug/net8.0/CondSignal.AssemblyInfoInputs.cache
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/CondSignal/obj/Debug/net8.0/CondSignal.AssemblyInfo.cs
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/CondSignal/obj/Debug/net8.0/CondSignal.csproj.CoreCompileInputs.cache
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/CondSignal/obj/Debug/net8.0/CondSignal.sourcelink.json
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/CondSignal/obj/Debug/net8.0/CondSignal.dll
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/CondSignal/obj/Debug/net8.0/refint/CondSignal.dll
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/CondSignal/obj/Debug/net8.0/CondSignal.pdb
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/CondSignal/obj/Debug/net8.0/CondSignal.genruntimeconfig.cache
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/CondSignal/obj/Debug/net8.0/ref/CondSignal.dll

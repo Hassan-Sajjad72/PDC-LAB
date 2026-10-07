@@ -1,0 +1,15 @@
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/BufferSemaphore/bin/Debug/net8.0/BufferSemaphore
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/BufferSemaphore/bin/Debug/net8.0/BufferSemaphore.deps.json
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/BufferSemaphore/bin/Debug/net8.0/BufferSemaphore.runtimeconfig.json
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/BufferSemaphore/bin/Debug/net8.0/BufferSemaphore.dll
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/BufferSemaphore/bin/Debug/net8.0/BufferSemaphore.pdb
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/BufferSemaphore/obj/Debug/net8.0/BufferSemaphore.GeneratedMSBuildEditorConfig.editorconfig
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/BufferSemaphore/obj/Debug/net8.0/BufferSemaphore.AssemblyInfoInputs.cache
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/BufferSemaphore/obj/Debug/net8.0/BufferSemaphore.AssemblyInfo.cs
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/BufferSemaphore/obj/Debug/net8.0/BufferSemaphore.csproj.CoreCompileInputs.cache
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/BufferSemaphore/obj/Debug/net8.0/BufferSemaphore.sourcelink.json
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/BufferSemaphore/obj/Debug/net8.0/BufferSemaphore.dll
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/BufferSemaphore/obj/Debug/net8.0/refint/BufferSemaphore.dll
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/BufferSemaphore/obj/Debug/net8.0/BufferSemaphore.pdb
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/BufferSemaphore/obj/Debug/net8.0/BufferSemaphore.genruntimeconfig.cache
+/home/hassan-sajjad/PDC-LAB/Lab05_Solution/BufferSemaphore/obj/Debug/net8.0/ref/BufferSemaphore.dll
