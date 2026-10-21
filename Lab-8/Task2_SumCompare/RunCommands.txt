@@ -1,0 +1,7 @@
+dotnet new console -o SumCompare
+cd SumCompare
+dotnet build -c Release
+mpiexec -n 1 .\bin\Release\net48\SumCompare.exe
+mpiexec -n 2 .\bin\Release\net48\SumCompare.exe
+mpiexec -n 4 .\bin\Release\net48\SumCompare.exe
+mpiexec -n 8 .\bin\Release\net48\SumCompare.exe

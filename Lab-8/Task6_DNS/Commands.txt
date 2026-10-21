@@ -1,0 +1,5 @@
+dig +trace www.example.com
+dig www.example.com
+dig www.example.com
+# Windows alternative:
+nslookup -debug www.example.com

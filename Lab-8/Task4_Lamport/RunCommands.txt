@@ -1,0 +1,2 @@
+mpiexec -n 4 .\bin\Release\net48\Lamport.exe
+mpiexec -n 6 .\bin\Release\net48\Lamport.exe

@@ -1,0 +1,7 @@
+mpiexec -n 2 hostname
+dotnet new console -o HelloMpi
+cd HelloMpi
+dotnet build -c Release
+mpiexec -n 4 .\bin\Release\net48\HelloMpi.exe
+mpiexec -n 6 .\bin\Release\net48\HelloMpi.exe
+mpiexec -n 8 .\bin\Release\net48\HelloMpi.exe
